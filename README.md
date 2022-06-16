@@ -37,9 +37,9 @@ To do so, complete the following steps:
 
 ## Results
 ### The Pychain Ledger:
-![Screen Shot 2022-06-15 at 4 49 43 PM](https://user-images.githubusercontent.com/97059769/173981894-e7607910-0f1d-4922-9a00-b2becaf1d895.png)
+![Screen Shot 2022-06-15 at 5 17 21 PM](https://user-images.githubusercontent.com/97059769/173983744-c095a551-2f7f-47ab-b480-3531b7cd2534.png)
 
 ### Validation:
 ![Screen Shot 2022-06-15 at 4 50 37 PM](https://user-images.githubusercontent.com/97059769/173981962-9239cc0b-cee7-4e50-a690-202be3d60e9b.png)
-![Screen Shot 2022-06-15 at 4 50 46 PM](https://user-images.githubusercontent.com/97059769/173981968-66cdcb72-8478-4f75-8a9c-57a0ec257dbf.png)
+![Screen Shot 2022-06-15 at 5 17 34 PM](https://user-images.githubusercontent.com/97059769/173983765-97eb10fe-2207-4ab3-abfb-c808a198233b.png)
 
